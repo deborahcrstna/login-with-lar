@@ -5,7 +5,7 @@
 
 ## DESCRIÇÃO
 
-### Projeto de um CRUD com autenticação usando PHP com Laravel, Node e Sqlite. 
+### Projeto de um CRUD com autenticação usando PHP com Laravel e Sqlite. 
 
 ![alt text](TELAPRINCIPAL.png)
 
